@@ -1,0 +1,52 @@
+body{
+
+    
+    background-color:white ;
+    width:500px;
+    
+    
+   }
+   .hoodo{
+       
+       margin-left: 300px;
+       margin-top: 80px;
+       margin-right: 10px;
+       margin-bottom: 200px;
+      
+   }
+  
+   h2{
+     color: black;
+     font-size: 25px;
+     padding-left: 20px;
+     font-weight: bold;
+   }
+  section{
+    background-color:red;
+     width: 500px;
+     border:3.5px solid black;
+     border-radius: 25px;
+     
+  }
+
+  article{
+    color:white;
+    font-size: 17px;
+    background-color: brown;
+  }
+  footer{
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+  }
+ 
+  .cardarticleimage{
+    width: 190px;
+    float: right;
+    height: 160px;
+    padding-right: 2px;
+  }
+  .hodo{
+    padding: 10px;
+  }
+ 
